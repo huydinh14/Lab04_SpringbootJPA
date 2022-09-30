@@ -1,5 +1,13 @@
 # Lab04_SpringbootJPA - Using Docker Compose and JWT on Springboot JPA
 
+<h1>Run Docker Image </h1>
+
+![image](https://user-images.githubusercontent.com/58857535/193237547-6a8b38db-738c-41d9-a357-961d7b10e72b.png)
+
+
+
+
+
 <h3>Cau 1</h3>
 
 ![image](https://user-images.githubusercontent.com/58857535/193209905-5c8fd9d9-dcdf-4aa6-bfc9-8a3110a105b6.png)
