@@ -2,7 +2,6 @@
 
 <h1>Run Docker Image </h1>
 
-![image](https://user-images.githubusercontent.com/58857535/193237547-6a8b38db-738c-41d9-a357-961d7b10e72b.png)
 ![image](https://user-images.githubusercontent.com/58857535/193461795-182ceb3c-b3ca-44c3-9c7f-aa3722723bb0.png)
 
 
